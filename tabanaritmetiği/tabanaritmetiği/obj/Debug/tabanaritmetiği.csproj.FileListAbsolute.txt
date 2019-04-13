@@ -1,0 +1,9 @@
+c:\users\batuhan\documents\visual studio 2013\Projects\tabanaritmetiği\tabanaritmetiği\bin\Debug\tabanaritmetiği.exe.config
+c:\users\batuhan\documents\visual studio 2013\Projects\tabanaritmetiği\tabanaritmetiği\obj\Debug\tabanaritmetiği.csprojResolveAssemblyReference.cache
+c:\users\batuhan\documents\visual studio 2013\Projects\tabanaritmetiği\tabanaritmetiği\obj\Debug\tabanaritmetiği.Form1.resources
+c:\users\batuhan\documents\visual studio 2013\Projects\tabanaritmetiği\tabanaritmetiği\obj\Debug\tabanaritmetiği.Properties.Resources.resources
+c:\users\batuhan\documents\visual studio 2013\Projects\tabanaritmetiği\tabanaritmetiği\obj\Debug\tabanaritmetiği.csproj.GenerateResource.Cache
+C:\Users\BATUHAN\Documents\Visual Studio 2013\Projects\tabanaritmetiği\tabanaritmetiği\bin\Debug\tabanaritmetiği.exe
+C:\Users\BATUHAN\Documents\Visual Studio 2013\Projects\tabanaritmetiği\tabanaritmetiği\bin\Debug\tabanaritmetiği.pdb
+C:\Users\BATUHAN\Documents\Visual Studio 2013\Projects\tabanaritmetiği\tabanaritmetiği\obj\Debug\tabanaritmetiği.exe
+C:\Users\BATUHAN\Documents\Visual Studio 2013\Projects\tabanaritmetiği\tabanaritmetiği\obj\Debug\tabanaritmetiği.pdb
